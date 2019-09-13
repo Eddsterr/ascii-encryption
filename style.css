@@ -1,0 +1,450 @@
+#header{
+    background-color: #212121;
+    color: #e5e5e5;
+    font: Helvetica;
+    text-align: center;
+}
+
+body{
+    background-color: #141414;
+  text-align: center;
+   
+}
+ul{
+    text-align: center;
+}
+
+#container{
+    background-color: #2d2d2d;
+   
+    
+}
+#content{
+    padding: 10px;
+}
+
+#nav{
+    width: 180px;
+    float: center;
+    color: white;
+    font-size:12px
+}
+
+#main{
+
+  
+text-align: center;
+    
+    color: #e5e5e5
+}
+
+#footer{
+    clear: both;
+}
+
+img{
+    clear: both;
+}
+
+.rainbow2 {
+  
+   /* Font options */
+  font-family: 'Verdana', cursive;
+  text-shadow: 2px 2px 4px #000000;
+  font-size:40px;
+  
+   /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 20s infinite; 
+  
+  /* Internet Explorer */
+  -ms-animation: rainbow 20s infinite;
+  
+  /* Standar Syntax */
+  animation: rainbow 20s infinite; 
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow{
+  0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Internet Explorer */
+@-ms-keyframes rainbow{
+   0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Standar Syntax */
+@keyframes rainbow{
+    0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+.rainbow {
+  
+    /* Font options */
+   font-family: 'Pacifico', cursive;
+   text-shadow: 2px 2px 4px #000000;
+   font-size:12px;
+   
+    /* Chrome, Safari, Opera */
+   -webkit-animation: rainbow 5s infinite; 
+   
+   /* Internet Explorer */
+   -ms-animation: rainbow 5s infinite;
+   
+   /* Standar Syntax */
+   animation: rainbow 5s infinite; 
+ }
+ 
+ /* Chrome, Safari, Opera */
+ @-webkit-keyframes rainbow{
+   0%{color: orange;}	
+   10%{color: purple;}	
+     20%{color: red;}
+   30%{color: CadetBlue;}
+     40%{color: yellow;}
+   50%{color: coral;}
+     60%{color: green;}
+   70%{color: cyan;}
+   80%{color: DeepPink;}
+   90%{color: DodgerBlue;}
+     100%{color: orange;}
+ }
+ 
+ /* Internet Explorer */
+ @-ms-keyframes rainbow{
+    0%{color: orange;}	
+   10%{color: purple;}	
+     20%{color: red;}
+   30%{color: CadetBlue;}
+     40%{color: yellow;}
+   50%{color: coral;}
+     60%{color: green;}
+   70%{color: cyan;}
+   80%{color: DeepPink;}
+   90%{color: DodgerBlue;}
+     100%{color: orange;}
+ }
+ 
+ /* Standar Syntax */
+ @keyframes rainbow{
+     0%{color: orange;}	
+   10%{color: purple;}	
+     20%{color: red;}
+   30%{color: CadetBlue;}
+     40%{color: yellow;}
+   50%{color: coral;}
+     60%{color: green;}
+   70%{color: cyan;}
+   80%{color: DeepPink;}
+   90%{color: DodgerBlue;}
+     100%{color: orange;}
+ }
+
+
+ .defaulttext{
+    font-family: 'Verdana', cursive;
+    text-shadow: 2px 2px 4px #000000;
+    font-size:20px;
+    color: whitesmoke;
+ }
+
+ .Header1{
+    font-family: 'Helvetica', bold;
+    text-shadow: 2px 2px 4px #000000;
+    font-size:40px;
+    color: whitesmoke;
+     /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 40s infinite; 
+  
+  /* Internet Explorer */
+  -ms-animation: rainbow 40s infinite;
+  
+  /* Standar Syntax */
+  animation: rainbow 40s infinite; 
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow{
+  0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Internet Explorer */
+@-ms-keyframes rainbow{
+   0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Standar Syntax */
+@keyframes rainbow{
+    0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+    
+ .gay{
+    font-family: 'Snell ', bold;
+    text-shadow: 2px 2px 4px #000000;
+    font-size:15px;
+    color: whitesmoke;
+     /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 2s infinite; 
+  
+  /* Internet Explorer */
+  -ms-animation: rainbow 2s infinite;
+  
+  /* Standar Syntax */
+  animation: rainbow 2s infinite; 
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow{
+  0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Internet Explorer */
+@-ms-keyframes rainbow{
+   0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Standar Syntax */
+@keyframes rainbow{
+    0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+ body{
+  margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color:#333;
+}
+
+#particles-js{
+  background:#141414;
+  height:100px;
+  margin-top:10px;
+  top:100px;
+  left:50px;
+  
+}
+
+#login{
+  background:#fff;
+  opacity:0.9;
+  padding:2em;
+  border:#ccc 2px solid;
+  position:absolute;
+  top:100px;
+  left:50px;
+}
+
+#login input[type="text"], #login input[type="password"]{
+  padding:7px;
+  margin-top:10px;
+  border:1px #ccc solid;
+}
+.btn {
+  background-color: #191919;
+  border: none;
+  color: green;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+   
+    /* Chrome, Safari, Opera */
+   -webkit-animation: rainbow 5s infinite; 
+   
+   /* Internet Explorer */
+   -ms-animation: rainbow 5s infinite;
+   
+   /* Standar Syntax */
+   animation: rainbow 5s infinite; 
+  
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #232323;
+  
+}
+#click-me{
+  
+    background-color: #191919;
+  border: none;
+  color: green;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+   
+    /* Chrome, Safari, Opera */
+   -webkit-animation: rainbow 5s infinite; 
+   
+   /* Internet Explorer */
+   -ms-animation: rainbow 5s infinite;
+   
+   /* Standar Syntax */
+   animation: rainbow 5s infinite; 
+}
+
+.rainbow3 {
+  
+    /* Font options */
+   font-family: 'Verdana';
+   text-shadow: 2px 2px 4px #000000;
+   font-size:12px;
+  
+   
+    /* Chrome, Safari, Opera */
+   -webkit-animation: rainbow 5s infinite; 
+   
+   /* Internet Explorer */
+   -ms-animation: rainbow 5s infinite;
+   
+   /* Standar Syntax */
+   animation: rainbow 5s infinite; 
+ }
+
+.rainbow4 {
+  
+    /* Font options */
+   font-family: 'Verdana';
+   text-shadow: 2px 2px 4px #000000;
+   font-size:20px;
+  
+   
+    /* Chrome, Safari, Opera */
+   -webkit-animation: rainbow 5s infinite; 
+   
+   /* Internet Explorer */
+   -ms-animation: rainbow 5s infinite;
+   
+   /* Standar Syntax */
+   animation: rainbow 5s infinite; 
+ }
+.buttonss {
+  background-color: #232323;
+ /* Green */
+      border: none;
+      color: #rainbow4;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+}
+#search {
+  background-color: #232323;
+
+
+ /* Green */
+      border: none;
+  
+      color: .rainbow;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+}
+
+.rainbow5 {
+  
+    /* Font options */
+   font-family: 'Verdana';
+   text-shadow: 2px 2px 4px #000000;
+   font-size:20px;
+    background-color: #232323;
+     border: #303030;
+   
+    /* Chrome, Safari, Opera */
+   -webkit-animation: rainbow 5s infinite; 
+   
+   /* Internet Explorer */
+   -ms-animation: rainbow 5s infinite;
+   
+   /* Standar Syntax */
+   animation: rainbow 5s infinite; 
+ }
